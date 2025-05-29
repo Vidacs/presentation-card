@@ -260,6 +260,7 @@ button { cursor: pointer; }
 .invest-img { width: 280px; border-radius: .75rem; justify-self: center; }
 .indent{      display: block;
     margin-left: 2em;}
+.opacity-bg{opacity: 0.8}
 .services-container { grid-template-columns: repeat(3, 250px); justify-content: center; column-gap: 1.8rem; }
 .services-content { position: relative; background-color: var(--box-color); padding: 6rem 0 2rem 2.5rem; border-radius: .25rem; }
 .services-icon { display: block; font-size: 1.8rem; color: var(--skin-color); margin-bottom: var(--mb1); }
